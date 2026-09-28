@@ -1,0 +1,4 @@
+Model,Features,Accuracy,Precision,Recall,F1 Score,Training Time (s),Prediction Time (s)
+Multinomial Naive Bayes,3000,0.942029,0.868098,0.943333,0.904153,0.083546,0.039394
+Logistic Regression,3000,0.974879,0.933544,0.983333,0.957792,0.183847,0.012417
+Logistic Regression - Reduced Features,2574,0.966184,0.926045,0.96,0.942717,0.181265,0.011254
