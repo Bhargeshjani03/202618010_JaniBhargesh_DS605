@@ -1,0 +1,5 @@
+Model,k,Test accuracy
+"Nearest neighbor (Part C, k=92)",92,0.975
+KNN,35,0.9667
+LogReg,50,1.0
+Linear SVM,35,0.975
